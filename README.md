@@ -1,4 +1,4 @@
-# etech7_ui
+# Flutter_ui
 
 A new Flutter project.
 
