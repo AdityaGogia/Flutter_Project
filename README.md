@@ -1,16 +1,4 @@
 # Flutter_ui
+ Flutter project.
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![jarvis](https://github.com/AdityaGogia/Flutter_Project/assets/120776440/7a4f4392-4071-42bd-9ee5-c7b8f9a347aa)
